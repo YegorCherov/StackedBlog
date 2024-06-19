@@ -65,24 +65,29 @@ The server-side code is organized into different files and directories:
 - `middlewares/`: Implements custom middleware functions for authentication and error handling
 
 ## Frontend Development
-
 The frontend of the blog application is built using React. It provides a user-friendly interface for interacting with the blog posts, user authentication, and commenting system.
 
+### Home Page
 ![Home Page](https://github.com/Rozcy/StackedBlog/blob/main/Images/Home.png)
 *The home page displays the list of blog posts with pagination and search functionality.*
 
+### Create Post Page
 ![Create Post Page](https://github.com/Rozcy/StackedBlog/blob/main/Images/CreatePost.png)
 *The create post page allows authenticated users to create new blog posts.*
 
+### Login Page
 ![Login Page](https://github.com/Rozcy/StackedBlog/blob/main/Images/Login.png)
 *The login page provides a user-friendly interface for existing users to log into their accounts securely.*
 
+### Registration Page
 ![Registration Page](https://github.com/Rozcy/StackedBlog/blob/main/Images/Register.png)
 *The registration page allows new users to create an account by providing their username, email, and password.*
 
+### Navigation Bar
 ![Navigation Bar](https://github.com/Rozcy/StackedBlog/blob/main/Images/Navbar.png)
 *The navigation bar is present on all pages and provides easy access to different sections of the blog application, including the home page, create post page, login, and registration.*
 
+### API Testing
 ![Postman](https://github.com/Rozcy/StackedBlog/blob/main/Images/postman-api-Tests.png)
 *I used Postman for testing the API endpoints during development. It allowed me to send HTTP requests to the API and verify the responses, ensuring that the API was functioning correctly for various operations such as creating, reading, updating, and deleting blog posts, as well as user authentication and authorization. Additionally, I utilized Postman's load testing capabilities to simulate high traffic scenarios and ensure the API could handle concurrent requests efficiently.*
 
