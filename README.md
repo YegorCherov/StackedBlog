@@ -1,6 +1,6 @@
 # MERN Stack Blog Application
 
-![Blog Application Demo](demo.gif)
+![Blog Application Demo](HomeGifCropped.gif)
 
 Welcome to the MERN Stack Blog Application! This impressive project showcases a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). It offers a wide range of features, including user authentication, blog post creation, pagination, filtering, searching, and commenting.
 
