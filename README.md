@@ -1,6 +1,6 @@
 # MERN Stack Blog Application
 
-![Blog Application Demo](HomeGifCropped.gif)
+![Blog Application Demo](https://github.com/Rozcy/StackedBlog/blob/main/Images/HomeGifCropped.gif)
 
 Welcome to the MERN Stack Blog Application! This impressive project showcases a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). It offers a wide range of features, including user authentication, blog post creation, pagination, filtering, searching, and commenting.
 
@@ -55,7 +55,7 @@ To run the blog application locally, follow these steps:
 
 The backend of the blog application is built using Express.js and Node.js. It handles the API endpoints, interacts with the MongoDB database, and implements authentication and authorization.
 
-![MongoDB Schema](Mongodb.png)
+![MongoDB Schema](https://github.com/Rozcy/StackedBlog/blob/main/Images/DB.png)
 
 The server-side code is organized into different files and directories:
 
@@ -68,22 +68,22 @@ The server-side code is organized into different files and directories:
 
 The frontend of the blog application is built using React. It provides a user-friendly interface for interacting with the blog posts, user authentication, and commenting system.
 
-![Home Page](Home.png)
+![Home Page](https://github.com/Rozcy/StackedBlog/blob/main/Images/Home.png)
 *The home page displays the list of blog posts with pagination and search functionality.*
 
-![Create Post Page](CreatePost.png)
+![Create Post Page](https://github.com/Rozcy/StackedBlog/blob/main/Images/CreatePost.png)
 *The create post page allows authenticated users to create new blog posts.*
 
-![Login Page](Login.png)
+![Login Page](https://github.com/Rozcy/StackedBlog/blob/main/Images/Login.png)
 *The login page provides a user-friendly interface for existing users to log into their accounts securely.*
 
-![Registration Page](Register.png)
+![Registration Page](https://github.com/Rozcy/StackedBlog/blob/main/Images/Register.png)
 *The registration page allows new users to create an account by providing their username, email, and password.*
 
-![Navigation Bar](Navbar.png)
+![Navigation Bar](https://github.com/Rozcy/StackedBlog/blob/main/Images/Navbar.png)
 *The navigation bar is present on all pages and provides easy access to different sections of the blog application, including the home page, create post page, login, and registration.*
 
-![Postman](Postman.png)
+![Postman](https://github.com/Rozcy/StackedBlog/blob/main/Images/postman-api-Tests.png)
 *I used Postman for testing the API endpoints during development. It allowed me to send HTTP requests to the API and verify the responses, ensuring that the API was functioning correctly for various operations such as creating, reading, updating, and deleting blog posts, as well as user authentication and authorization. Additionally, I utilized Postman's load testing capabilities to simulate high traffic scenarios and ensure the API could handle concurrent requests efficiently.*
 
 The React components are organized into separate files and directories:
