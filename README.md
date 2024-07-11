@@ -43,7 +43,7 @@ Welcome to the MERN Stack Blog Application! This impressive project showcases a 
 
 To run the blog application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/blog-application.git`
+1. Clone the repository: `git clone https://github.com/YegorCherov/blog-application.git`
 2. Navigate to the project directory: `cd blog-application`
 3. Install the dependencies for the server: `npm install`
 4. Install the dependencies for the client: `cd client && npm install`
